@@ -7,13 +7,13 @@ The Invoices project is a Django application built using Django Rest Framework (
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/yourusername/invoices.git
+    git clone https://github.com/Shankjbs571/thisCreate.git
     ```
 
 2. **Navigate to the project directory:**
 
     ```bash
-    cd invoices
+    cd thisCreate
     ```
 
 3. **Create a virtual environment and activate it (optional but recommended):**
