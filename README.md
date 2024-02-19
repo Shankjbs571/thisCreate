@@ -1,4 +1,4 @@
-# Invoices Project
+# Invoices
 
 The Invoices project is a Django application built using Django Rest Framework (DRF) to manage invoices and invoice details. It provides APIs for CRUD operations on invoices and invoice details.
 
